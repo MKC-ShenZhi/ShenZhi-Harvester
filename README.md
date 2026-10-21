@@ -18,6 +18,7 @@
 
 示例：
 
+```
 ShenZhi-Harvester/
 ├── README.md
 ├── AGENTS.md
@@ -25,6 +26,7 @@ ShenZhi-Harvester/
 ├── project-a/
 ├── project-b/
 └── project-c/
+```
 
 ## 项目提交要求
 
